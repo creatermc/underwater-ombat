@@ -4,3 +4,4 @@ public interface shipMoving {
     void slowRun();
     String messagesGoCome();
 }
+
